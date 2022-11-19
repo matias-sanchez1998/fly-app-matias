@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fly-app-matias/static/css/main.01494fba.css",
+    "main.js": "/fly-app-matias/static/js/main.12226078.js",
+    "static/media/background-travel-2.jpg": "/fly-app-matias/static/media/background-travel-2.b05ef609e755356c4538.jpg",
+    "index.html": "/fly-app-matias/index.html",
+    "main.01494fba.css.map": "/fly-app-matias/static/css/main.01494fba.css.map",
+    "main.12226078.js.map": "/fly-app-matias/static/js/main.12226078.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01494fba.css",
+    "static/js/main.12226078.js"
+  ]
+}
